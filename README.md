@@ -15,7 +15,10 @@
 ## Learning
 📚 Constantly learning and staying updated with the latest advancements in AI and Data Science.
 
+## Connect with me
+🔗 [Nashat AlFarajat](www.linkedin.com/in/nashat-alfarajat-700437337)
+
+
 ## Check Out My Projects 👇
 
-## Connect with me
-🔗 [LinkedIn](www.linkedin.com/in/nashat-alfarajat-700437337)
+
