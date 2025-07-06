@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nashat! 👋
 
-<!--
-**nashatfr/nashatfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🚀 Artificial Intelligence and Data Science student, passionate about applying AI to solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Python, C++, java
+- SQL & databases
+- Data analysis
+- Big data technologies (Spark)
+- Machine learning
+- Git & GitHub
+- and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+📚 Constantly learning and staying updated with the latest advancements in AI and Data Science.
+
+## Connect with me
+🔗 [LinkedIn](www.linkedin.com/in/nashat-alfarajat-700437337)
