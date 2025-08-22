@@ -10,6 +10,7 @@
 - Big data technologies (Spark)
 - Machine learning
 - Git & GitHub
+- Power BI
 - and more
 
 ## Learning
