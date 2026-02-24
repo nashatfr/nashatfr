@@ -1,17 +1,20 @@
 # Hi, I'm Nashat! 👋
 
 ## About Me
-🚀 Artificial Intelligence and Data Science student, passionate about applying AI to solve real-world problems.
+🚀 Senior Artificial Intelligence and Data Science student, passionate about learning & applying AI to solve real-world problems.
 
 ## Skills
-- Python, C++, java
+- Python, C++
 - SQL & databases
 - Data analysis
 - Big data technologies (Spark)
 - Machine learning
+- Deep Learning
+- Computer vision
 - Git & GitHub
 - Power BI
-- and more
+- RAG & NLP 
+- getting into LLMs and more
 
 ## Learning
 📚 Constantly learning and staying updated with the latest advancements in AI and Data Science.
