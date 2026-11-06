@@ -14,7 +14,8 @@
 - Git & GitHub
 - Power BI
 - RAG & NLP 
-- getting into LLMs and more
+- getting into LLMs 
+- AI Agents & Automation
 
 ## Learning
 📚 Constantly learning and staying updated with the latest advancements in AI and Data Science.
